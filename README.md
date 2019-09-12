@@ -1,6 +1,6 @@
 # LoggerWrapperOfILogger
 
-![Nuget](https://img.shields.io/nuget/v/LoggerWrapperOfILogger)
+[![Nuget](https://img.shields.io/nuget/v/LoggerWrapperOfILogger)](https://www.nuget.org/packages/LoggerWrapperOfILogger/)
 
 Useful for wrapping `ILogger` to `ILogger<Class>`
 
